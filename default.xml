@@ -20,6 +20,7 @@
   <project path="bootable/recovery" name="CyanMobile/android_bootable_recovery_cyanmobile" />
   <project path="dalvik" name="CyanMobile/android_dalvik_cyanmobile" />
   <project path="development" name="CyanMobile/android_development_cyanmobile" />
+  <project path="device/bn/encore" name="CyanMobile/android_device_bn_encore_cyanmobile" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
   <project path="device/huawei/u8510" name="CyanMobile/android_device_huawei_u8510_cyanmobile" />
   <project path="device/htc/bravo" name="CyanMobile/android_device_htc_bravo_cyanmobile" />
